@@ -1,0 +1,5 @@
+Islam
+Eslam
+Islaam
+Eslaam
+[^a-zA-Z][Ii|Ee]slaa?m[^a-zA-Z]
